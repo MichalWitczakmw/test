@@ -1,0 +1,5 @@
+﻿  main.cpp
+  zbior.cpp
+C:\Users\Michał Witczak\Desktop\test\testowo\zbior.cpp(22,9): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  testowo.vcxproj -> C:\Users\Michał Witczak\Desktop\test\testowo\x64\Debug\testowo.exe
